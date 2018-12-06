@@ -24,4 +24,6 @@ Dog breed classifier project is a part of DEEP LEARNING nano degree of UDACITY. 
       
       ```
  6) I made use of transfer learning to classify dog breeds. In order to make use of pre trained model (VGG16) load the weights(model_transfer.pt) after initializing the model.You will get more than 80% accuracy.
+ 
+ 7) Model will will classify dogs from other classes, output the breed of the dog, identify humans and output the resembling dog breed.
     
