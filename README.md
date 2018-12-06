@@ -23,5 +23,5 @@ In this project, I have built a pipeline that can be used within a web or mobile
       jupyter notebook dog_app.ipynb
       
       ```
- 6) In order to make use of pre trained model (VGG16) load the weights(model_transfer.pt) after initializing the model.
+ 6) I made use of transfer learning to classify dog breeds.In order to make use of pre trained model (VGG16) load the weights(model_transfer.pt) after initializing the model.You will get more than 80% accuracy.
     
