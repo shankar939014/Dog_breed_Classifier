@@ -1,5 +1,5 @@
 # Dog_breed_Classifier
-In this project, I have built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+Dog breed classifier project is a part of DEEP LEARNING nano degree of UDACITY. In this project, I have built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 # Project Execution and Dependencies
 
@@ -23,5 +23,5 @@ In this project, I have built a pipeline that can be used within a web or mobile
       jupyter notebook dog_app.ipynb
       
       ```
- 6) I made use of transfer learning to classify dog breeds.In order to make use of pre trained model (VGG16) load the weights(model_transfer.pt) after initializing the model.You will get more than 80% accuracy.
+ 6) I made use of transfer learning to classify dog breeds. In order to make use of pre trained model (VGG16) load the weights(model_transfer.pt) after initializing the model.You will get more than 80% accuracy.
     
