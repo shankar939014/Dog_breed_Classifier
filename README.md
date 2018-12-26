@@ -27,3 +27,4 @@ Dog breed classifier project is a part of DEEP LEARNING nano degree of UDACITY. 
  
  7) Model will will classify dogs from other classes, output the breed of the dog, identify humans and output the resembling dog breed.
     
+![alt text](https://github.com/shankar939014/Dog_breed_Classifier/blob/master/DLND_Certificate.pdf "Logo Title Text 1")
